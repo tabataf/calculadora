@@ -1,0 +1,82 @@
+/* display: flex;
+align-items: flex-start;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    border: 1px solid;
+    width: 25rem;
+} */
+
+/* .n1{
+    display: flex;
+    align-items: center;
+}
+
+.n2 {
+    display: flex;
+    align-items: center;
+} */
+
+/* .numeros{
+    display: flex;
+    flex-direction: column-reverse;
+} */
+
+.bloco_todo{
+    background-color: rgb(255, 255, 255);
+    width: 40rem;
+    display: flex;
+    justify-content: center;
+    height: 40rem;
+    margin-top: 3rem;
+    border-radius: 10px;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 5rem;
+    height: 5rem;
+}
+
+.titulo{
+    display: flex;
+    flex-direction: row;
+    width: 10vh;
+    height: 45vh;
+    
+}
+
+/* .bordao{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color:brown ;
+} */
+
+.container{
+    background-color: aliceblue;
+    display: flex;
+
+}
+
+body{
+    background-color: rgb(181, 158, 175);
+    display: flex;
+    justify-content: center
+}
+
+.n1, .n2 {
+    height:  2rem;
+}
+
+.botao_somar {
+    margin-top: 0.5rem;
+    width: 20.6rem;
+}
+
+.calculadora {
+    width: 7rem;
+    height: 7rem;
+}
